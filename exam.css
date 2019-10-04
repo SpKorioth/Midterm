@@ -1,0 +1,19 @@
+html {margin: 0; padding: 0; background-color: #FCEBB6; color: #221811;}
+
+header, nav, footer {text-align: center;}
+header, footer {background-color: #D2B48C;}
+main {background-color: #FEF6C2;}
+
+#wrapper
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+
+nav {height: 100%; width: 20%; background-color: #221811;}
+
+
+img {width: 100%;}
+nav a {color: #FCEBB6; text-decoration: none; display: block;}
+#content {margin-left:25%;}
